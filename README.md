@@ -3,7 +3,7 @@ Full Stack Developer, passionate about technologies, I have been working in the 
 
 ## 🚀 Technologies & Tools
 
-## 💻 Social networks
+## 💻 Contact
 <!--  Whats App-->
 ![badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 <!-- GitHub -->
