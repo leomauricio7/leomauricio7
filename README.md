@@ -1,8 +1,5 @@
 # Hi, I am Leonardo Mauricio 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects.
+Full Stack Developer, passionate about technologies, I have been working in the market for over 6 years with the most diverse programming languages (Java, Java script, PHP), technologies such as (Node.js, React, Angular, Ionic, Mysql, PostgreSQL, Oracle , Electron, AngularJS, Open Shift, Docker, AWS, Azure Developers, Jenkins, Sping Cloud).
 
 ## 🚀 Technologies & Tools
 
