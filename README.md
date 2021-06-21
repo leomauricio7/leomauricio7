@@ -1,4 +1,4 @@
-# Hi, I am Leonardo Mauricio 👋
+# Hi, I'm Leonardo Mauricio 👋
 Full Stack Developer, passionate about technologies, I have been working in the market for over 6 years with the most diverse programming languages (Java, Java script, PHP), technologies such as (Node.js, React, Angular, Ionic, Mysql, PostgreSQL, Oracle , Electron, AngularJS, Open Shift, Docker, AWS, Azure Developers, Jenkins, Sping Cloud).
 
 I currently work at <a href="https://actdigital.com/pt/">ACT Digital<a/>.
